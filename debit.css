@@ -1,0 +1,27 @@
+body{
+    background-color:grey;
+     
+}
+
+
+ .container-fluid{ 
+     background-color: darkmagenta;
+} 
+.form-select{
+    padding-right: 100px;
+    float: right;
+    margin: 0px;
+}
+.flex-container {
+    display: flex;
+  
+    
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 20px;
+    padding: 20px;
+    /* font-size: 30px; */
+  }
+  
