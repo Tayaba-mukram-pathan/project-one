@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+.flex-container{
+
+    display: flex;
+  
+}
+.flex-container-2{
+    border: 2px solid blue;
+    width: 20%;
+}
+h5,h1,h4{
+    text-align: center;
+}
+
+
+.flex-container-3{
+    border: 2px solid orange;
+    width: 100%;
+}
